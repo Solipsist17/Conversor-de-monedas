@@ -1,4 +1,4 @@
-package com.oracle.models;
+package com.oracle.util;
 
 import javax.swing.*;
 import java.awt.*;
